@@ -25,11 +25,4 @@ My work centers on building interpretable **Machine Learning pipelines** and exp
 
 ---
 
-### 📊 Contribution Analytics
-![Aniruddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Chakraborty-3&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-<div align="center">
-  <a href="www.linkedin.com/in/aniruddha-chakraborty-ds">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-</div>
