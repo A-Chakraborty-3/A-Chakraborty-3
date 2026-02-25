@@ -1,5 +1,9 @@
-# Aniruddha Chakraborty
-### Data Science & Engineering Undergraduate
+<div align="center">
+
+<!-- Animated Header with Gradient -->
+<img width="100%" src="./github-header-banner.png" />
+<div></div>
+<br/>
 
 I am a Computer Science student at **Sikkim Manipal Institute of Technology**, strictly focused on bridging the gap between theoretical algorithms and practical data intelligence.
 
